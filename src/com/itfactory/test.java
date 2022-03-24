@@ -19,5 +19,6 @@ public class test {
         int result1 = m.dif(x,y);
         System.out.println("sum is " + result);
         System.out.println("dif is " + result1);
+
     }
 }
