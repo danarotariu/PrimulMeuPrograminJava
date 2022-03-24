@@ -1,6 +1,6 @@
 package com.itfactory;
 
-/*** Probleme optionale.
+/* Probleme optionale.
  * 1. Creati un proiect in Java in care sa aveti urmatorul pachet default: "com.itfactory".
  * Sa se creeze o clasa (numele il veti alege voi) in care sa aveti o metoda main.
  * Cerinta este sa cititi doua numere de la tastatura si sa afisati restul impartirii lor.
